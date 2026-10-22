@@ -3,10 +3,10 @@
 # et lance dans le terminal :  python3 verifier.py 0
 
 # Nombre de bits dans une adresse IPv4
-Q1 = 
+Q1 = 32
 
 # Nombre de bits dans un octet
-Q2 = 
+Q2 = 8
 
 # Nombre d'octets dans une adresse IPv4
-Q3 = 
+Q3 = 128
